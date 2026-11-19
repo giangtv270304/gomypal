@@ -2,6 +2,8 @@
 
 Go client for the MyPal card API (customers, KYC, cards, transactions, delivery, merchant wallet, webhooks).
 
+Unofficial client, not affiliated with or endorsed by MyPal.
+
 ## Install
 
 ```bash
